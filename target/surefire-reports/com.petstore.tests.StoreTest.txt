@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: com.petstore.tests.StoreTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 2.318 sec <<< FAILURE! - in com.petstore.tests.StoreTest
+DeleteTheCreatedOrder  Time elapsed: 0.076 sec  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <200> but was <405>.
+
+	at com.petstore.tests.StoreTest.DeleteTheCreatedOrder(StoreTest.java:96)
+

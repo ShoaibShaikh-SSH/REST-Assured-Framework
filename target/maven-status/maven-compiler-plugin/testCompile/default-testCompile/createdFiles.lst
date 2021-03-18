@@ -1,0 +1,8 @@
+com/petstore/requestFactory/PetRequests.class
+com/petstore/requestFactory/UserRequests.class
+com/petstore/tests/PetTest.class
+com/petstore/tests/UserTest.class
+com/petstore/tests/TestBase.class
+com/petstore/requestFactory/StoreRequests.class
+com/petstore/util/UtilityMethods.class
+com/petstore/tests/StoreTest.class
